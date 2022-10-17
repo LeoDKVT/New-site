@@ -1,0 +1,16 @@
+.bg-black {
+    background-color: black;
+}
+
+.text-roxo {
+    color: #940c4b!important;
+}
+
+#narguile-personalizado {
+    
+    background-image: url(../img/capa/dg.jpg);
+    background-position: top center;
+    background-size: cover;
+}
+
+
